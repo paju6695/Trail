@@ -7,6 +7,9 @@ public class Display {
 		System.out.println("hellow");
                 system.out.println("java");
 		system.out.println("Ruby");
+		system.out.println("Ruby1");
+		
+		
 	}
 
 }
